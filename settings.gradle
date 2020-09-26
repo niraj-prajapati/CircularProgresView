@@ -1,0 +1,3 @@
+include ':CircularProgressView'
+include ':app'
+rootProject.name = "Circular ProgressView - Rounded Corner"
